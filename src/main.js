@@ -1,3 +1,6 @@
+var container;
+
 window.onload = () => {
-    console.log('yep it works');
+    container = window.querySelector('#container');
+    container.innerHTML = 'leslienielsendisperse.gif';
 }
