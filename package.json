@@ -17,8 +17,5 @@
     "url": "https://github.com/fgndwikasetiawan/trying-threejs/issues"
   },
   "homepage": "https://github.com/fgndwikasetiawan/trying-threejs#readme",
-  "devDependencies": {
-    "webpack": "^4.39.1",
-    "webpack-cli": "^3.3.6"
-  }
+  "devDependencies": {}
 }
