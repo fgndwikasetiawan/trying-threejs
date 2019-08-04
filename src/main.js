@@ -1,6 +1,6 @@
 var container;
 
 window.onload = () => {
-    container = window.querySelector('#container');
+    container = document.getElementById('container');
     container.innerHTML = 'leslienielsendisperse.gif';
 }
